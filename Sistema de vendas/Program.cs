@@ -37,12 +37,15 @@ return;
 
 static int Menu()
 {
-    Console.WriteLine("\n*-*-* MENU *-*-*");
-    Console.WriteLine("1. Cadastro ");
-    Console.WriteLine("2. Visualização ");
-    Console.WriteLine("3. Edição ");
-    Console.WriteLine("4. Exclusão ");
-    Console.WriteLine("0. Sair \n");
+    Console.WriteLine("|--------------------------|");
+    Console.WriteLine("|     *-*-* MENU *-*-*     |");
+    Console.WriteLine("|--------------------------|");
+    Console.WriteLine("| 1. Cadastro              |");
+    Console.WriteLine("| 2. Visualização          |");
+    Console.WriteLine("| 3. Edição                |");
+    Console.WriteLine("| 4. Exclusão              |");
+    Console.WriteLine("| 0. Sair                  |");
+    Console.WriteLine("|--------------------------|");
     var menu = System.Convert.ToInt32(Console.ReadLine());
     return menu;
 }
