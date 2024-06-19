@@ -1,0 +1,14 @@
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\bin\Debug\net8.0\Sistema de vendas.exe
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\bin\Debug\net8.0\Sistema de vendas.deps.json
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\bin\Debug\net8.0\Sistema de vendas.runtimeconfig.json
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\bin\Debug\net8.0\Sistema de vendas.dll
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\bin\Debug\net8.0\Sistema de vendas.pdb
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.AssemblyInfoInputs.cache
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.AssemblyInfo.cs
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.csproj.CoreCompileInputs.cache
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.dll
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\refint\Sistema de vendas.dll
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.pdb
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\Sistema de vendas.genruntimeconfig.cache
+C:\Users\fulvi\source\repos\Sistema de vendas\Sistema de vendas\obj\Debug\net8.0\ref\Sistema de vendas.dll
